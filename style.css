@@ -1,0 +1,29 @@
+
+.item {
+background-color: #000000;
+color: red;
+width: 1500px;
+height: 200px;
+text-align: center;
+
+}
+p {
+  font-size: 24px;
+
+}
+
+button {
+  font-weight: bold;
+  font-family: monospace;
+  margin-bottom: 20px;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+
+
+}
