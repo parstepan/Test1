@@ -6,11 +6,14 @@ body {
 background-color: blue;
 color: black;
 font-family: serif;
-font-size: 26px;
+font-size: 42px;
 font-weight: bold;
 text-align: center;
 grid-column: span 3;
 border: 10px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .item2 {
 background-color: grey;
